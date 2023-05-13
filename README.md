@@ -1,1 +1,1 @@
-First open static html file then open the python file
+The url used in code is of static html file
